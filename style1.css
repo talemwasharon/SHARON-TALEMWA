@@ -1,0 +1,14 @@
+.h1{
+    color: green;
+}
+.gallery{
+    width: 70%;
+    height: 60%;
+}
+.image{
+    width: 1500px;
+    height: 800px;
+}
+.body{
+    background-color: darkgoldenrod;
+}
